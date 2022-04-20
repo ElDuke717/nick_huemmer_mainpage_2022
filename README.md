@@ -10,6 +10,11 @@ The blog section in built in Bootstrap and may be changed to a new format.
 
 ## nick_huemmer_mainpage_2022
 
+[www.nickhuemmer.me ](www.nickhuemmer.me)
+hosted on Netlify
+
+My blog page is [www.nickhuemmer.com ](www.nickhuemmer.com)
+
 
 ### Things to fix:
 
